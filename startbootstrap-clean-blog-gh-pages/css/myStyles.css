@@ -1,0 +1,64 @@
+.header{
+    background-color: #002759;
+    color: #cde2fd;
+    height: 100px;
+    line-height: 100px;
+}
+
+.mainBody{
+    background-color: #e6f1ff;
+}
+
+.mainBody2{
+    background-color: #CED5DB;
+    text-align: left;
+}
+
+.footer{
+    position: fixed;
+    background-color: #acd0ff;
+    color: #002759;
+    bottom: 0px;
+    right: 3px;
+    left: 3px;
+    height: 25px;
+    font-size: 10px;
+    line-height: 25px;
+}
+
+.common{
+    font-family:cursive;
+}
+
+.emphasizedText{
+    color: #0453bb
+}
+
+.centered{
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%
+}
+
+nav{
+    background-color: #acd0ff;
+    color: #002759;
+    padding: 30px;
+    overflow: hidden;
+}
+
+nav a{
+    padding: 15px;
+    color: #002759;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+nav a:hover{
+    background-color: #c7dfff;
+}
